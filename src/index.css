@@ -20,6 +20,10 @@
   --secondary-text-color: #2e2f3e;
   --secondary-background-color: #fffffe;
 
+  --primary-button-color: #fffffe;
+  --secondary-button-color: #ff8906;
+  --tertiary-button-color: #f25f4c;
+
   font-synthesis: none;
   text-rendering: optimizeLegibility;
 }

@@ -1,11 +1,14 @@
 import React from 'react';
+import Button from '../components/Button/Button';
+import './Contact.css';
 
 const Contact = () => {
   return (
-    <div>
+    <section className="contact-section">
       <p>PLEASE CONTACT:</p>
       <p>email: info@acentryx.com phone: 087 4413214/ 0892493135</p>
-    </div>
+      <Button></Button>
+    </section>
   );
 };
 
