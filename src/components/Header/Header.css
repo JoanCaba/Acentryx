@@ -1,0 +1,21 @@
+header {
+  height: 12svh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 2rem;
+  background: var(--secondary-background-color);
+  color: var(--secondary-text-color);
+}
+.header-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  color: var(--secondary-text-color);
+  font-weight: 700;
+  gap: 10px;
+}
+.header-logo img {
+  max-height: 2rem;
+}

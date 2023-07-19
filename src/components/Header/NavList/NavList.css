@@ -1,0 +1,8 @@
+.nav-links ul {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.nav-links a {
+  color: var(--secondary-text-color);
+}

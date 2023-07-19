@@ -1,0 +1,13 @@
+main {
+  height: 80svh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: var(--primary-background-color);
+  color: var(--primary-text-color);
+}
+.acentryx-image {
+  object-fit: cover;
+  width: 90%;
+}
